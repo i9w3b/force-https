@@ -1,10 +1,14 @@
 {
     "name": "i9w3b/force-https",
-    "description": "ForceHttps package for with the Laravel framework.",
-    "keywords": ["i9w3b", "laravel", "package", "forcehttps"],
+    "description": "Forçar redirecionamento de http para https usando middleware laravel",
+    "keywords": ["i9w3b", "laravel", "package", "force-https"],
+    "homepage": "https://github.com/i9w3b/force-https",
+    "license": "MIT",
     "authors": [{
         "name": "Marcelo Sena",
-        "email": "suportemarcelosena@gmail.com"
+        "email": "suportemarcelosena@gmail.com",
+        "homepage": "https://github.com/i9w3b",
+        "role": "Developer"
     }],
     "require": {},
     "require-dev": {},
