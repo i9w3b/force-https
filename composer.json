@@ -1,0 +1,26 @@
+{
+    "name": "i9w3b/force-https",
+    "description": "ForceHttps package for with the Laravel framework.",
+    "keywords": ["i9w3b", "laravel", "package", "forcehttps"],
+    "authors": [{
+        "name": "Marcelo Sena",
+        "email": "suportemarcelosena@gmail.com"
+    }],
+    "require": {},
+    "require-dev": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "I9W3b\\ForceHttps\\ForceHttpsServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "I9W3b\\ForceHttps\\": "src/"
+        }
+    },
+    "autoload-dev": {},
+    "scripts": {}
+}
