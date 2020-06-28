@@ -1,6 +1,6 @@
 # ForceHttps
 
-<p align="center" class="text-center" style="text-align:center;"><a href="https://github.com/i9w3b" target="_blank"><img src="//cdn.jsdelivr.net/gh/i9w3b/cdn/img/logo-200px.png" width="200"></a></p>
+<p align="center" class="text-center" style="text-align:center;"><a href="https://github.com/i9w3b" target="_blank"><img src="https://cdn.jsdelivr.net/gh/i9w3b/cdn/img/logo-200px.png" width="200"></a></p>
 <p align="center" class="text-center" style="text-align:center;">
 <a href="https://github.com/i9w3b/force-https/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/i9w3b/force-https" alt="License"></a>
 <a href="https://github.com/i9w3b/force-https"><img src="https://img.shields.io/github/languages/count/i9w3b/force-https" alt="GitHub Language Count"></a>
